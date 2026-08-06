@@ -11,6 +11,16 @@ To perform a vulnerability assessment on a web application using OWASP ZAP, iden
 ## Target Website
 
 - demo.testfire.net (Test Website)
+## Scope
+
+- Assessment Type: Web Application Vulnerability Assessment
+- Target: demo.testfire.net
+- Tool Used: OWASP ZAP
+- Testing Scope:
+  - Passive vulnerability scanning
+  - Active vulnerability scanning
+  - Identification of common web application vulnerabilities
+  - Analysis of risk levels and security recommendations
 
 ## Tools Used
 
