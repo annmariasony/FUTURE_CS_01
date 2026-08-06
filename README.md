@@ -16,8 +16,8 @@ To perform a vulnerability assessment on a web application using OWASP ZAP, iden
 - GitHub
 
 ## Repository Structure
-- Report/ – Final vulnerability assessment report.
-- OWASP_ZAP_Results/ – Auto-generated OWASP ZAP report and supporting screenshots.
+- Report – Final vulnerability assessment report.
+- OWASP_ZAP_Results – Auto-generated OWASP ZAP report and supporting screenshots.
 
 ## Outcome
 The assessment identified multiple security vulnerabilities, including Cross-Site Scripting (XSS), missing security headers, and Cross-Site Request Forgery (CSRF)-related issues. Recommendations have been provided to improve the application's overall security posture.
